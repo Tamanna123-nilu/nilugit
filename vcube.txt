@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is vcube 
 dhaskhdksfhkshf
+=======
+this is vcube
+this is me
+>>>>>>> f119e0aa4ff591888f4bcf4ba017d2758bf8ae7b
